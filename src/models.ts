@@ -30,7 +30,7 @@ class Providers{
 }
 type Readings={
     units:number;
-    time:string;
+    date:string;
 }
 class Meters{
     MeterId:number;
